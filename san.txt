@@ -1,6 +1,2 @@
 my first git lab
-<<<<<<< HEAD
 my 5th experiment
-=======
-Work in progress
->>>>>>> 886f485 (added san.txt)
